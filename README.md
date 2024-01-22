@@ -26,7 +26,7 @@ Comprehensive Stress-Relieving Application focuses on key objectives:
 
 - Continuous Improvement: Embrace an iterative process to refine features, incorporate feedback, and stay updated with stress management trends.
 
-- Reliable Deployment: Roll out TranquilApp gradually, ensuring reliability and gathering user insights for enhancements.
+- Reliable Deployment: Roll out the app gradually, ensuring reliability and gathering user insights for enhancements.
 
 - Enhanced User Experience: Create a positive user experience by actively responding to feedback, refining features, and promoting mental well-being.
 
