@@ -5,9 +5,9 @@
 
 Project Title: Comprehensive Stress-Relieving Application
 <br>
-Submitted By: Hamday Rabby Hossain Auni. ID:2002007
+Submitted By: Hamday Rabby Hossain Auni. ID: 2002007
 <br>
-Submitted to: Pankaj Bhowmik(Lecturer,HSTU)
+Submitted to: Pankaj Bhowmik (Lecturer,HSTU)
 <br>
 
 Course Code: CSE 305
