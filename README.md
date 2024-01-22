@@ -1,6 +1,36 @@
 
-# Comprehensive Stress-Relieving Application
+# A Comprehensive Stress-Relieving Application
 
+
+
+Project Title: Comprehensive Stress-Relieving Application
+<br>
+Submitted By: Hamday Rabby Hossain Auni. ID:2002007
+<br>
+Submitted to: Pankaj Bhowmik(Lecturer,HSTU)
+<br>
+
+Course Code: CSE 305
+<br>
+Course Title: Software Engineering
+
+### Introduction:
+A comprehensive Stress-Relieving Application emerges as a simple yet powerful solution in a world buzzing with stress. This app's mission is to develop an easy-to-use, Stress-Relieving Application that adapts to user needs. Using an iterative approach, TranquilApp aims to bring calm to users' lives by staying agile and responsive. This project will follow the **Iterative SDLC method.**
+
+### Objective:
+Comprehensive Stress-Relieving Application focuses on key objectives:
+
+- User-Centric Design: Prioritize simplicity and user-friendliness through constant feedback loops.
+
+- Personalized Stress Management: Develop smart algorithms for personalized relaxation suggestions based on user input.
+
+- Continuous Improvement: Embrace an iterative process to refine features, incorporate feedback, and stay updated with stress management trends.
+
+- Reliable Deployment: Roll out TranquilApp gradually, ensuring reliability and gathering user insights for enhancements.
+
+- Enhanced User Experience: Create a positive user experience by actively responding to feedback, refining features, and promoting mental well-being.
+
+![image](https://github.com/Hamdayrabby/Comprehensive-Stress-Relieving-Application/assets/68457391/2acc39ba-eb60-4b4f-ad14-620d7f376bc0)
 
 
 ## Iteration 1: Requirement gathering & analysis
