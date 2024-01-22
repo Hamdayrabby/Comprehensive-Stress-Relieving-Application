@@ -1,5 +1,5 @@
 
-#Comprehensive Stress-Relieving Application
+# Comprehensive Stress-Relieving Application
 
 
 
@@ -7,7 +7,7 @@
 
 - Identify key stakeholders, including potential users and experts in stress relief. In that case potential user can be students from university. For the workload they had in everyday life.
 
-- Requirement Gathering and Analysis: Conduct thorough research through user interviews, surveys, and competitor analysis to understand user needs and expectations. Can be done by gathering every department student data.
+- Requirement Gathering and Analysis: Conduct thorough research through user interviews, surveys, and competitor analysis to understand user needs and expectations. Can be done by gathering every department's student data.
 
 - Feasibility Study: Assess project feasibility regarding resources, budget, and technical constraints.
 
