@@ -30,7 +30,8 @@ Comprehensive Stress-Relieving Application focuses on key objectives:
 
 - Enhanced User Experience: Create a positive user experience by actively responding to feedback, refining features, and promoting mental well-being.
 
-![image](https://github.com/Hamdayrabby/Comprehensive-Stress-Relieving-Application/assets/68457391/2acc39ba-eb60-4b4f-ad14-620d7f376bc0)
+![image](https://github.com/Hamdayrabby/Comprehensive-Stress-Relieving-Application/assets/68457391/73bc346d-cd35-4139-822b-07caf127219f)
+
 
 
 ## Iteration 1: Requirement gathering & analysis
