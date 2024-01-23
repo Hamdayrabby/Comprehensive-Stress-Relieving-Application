@@ -7,7 +7,7 @@ Project Title: Comprehensive Stress-Relieving Application
 <br>
 Submitted By: Hamday Rabby Hossain Auni. ID: 2002007
 <br>
-Submitted to: Pankaj Bhowmik (Lecturer,HSTU)
+Submitted to: Pankaj Bhowmik (Lecturer, HSTU)
 <br>
 
 Course Code: CSE 305
@@ -45,7 +45,7 @@ Comprehensive Stress-Relieving Application focuses on key objectives:
 
 
 
-## Iteration 2: Design Design
+## Iteration 2: Design
 - Create user personas based on the information gathered in the first iteration.
 - Develop wireframes or prototypes to visualize the application's interface and user interactions.
 - Design the database schema if the application requires data storage.
